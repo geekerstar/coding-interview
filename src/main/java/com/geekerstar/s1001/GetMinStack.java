@@ -1,4 +1,4 @@
-package com.geekerstar.s01;
+package com.geekerstar.s1001;
 
 import java.util.Stack;
 
