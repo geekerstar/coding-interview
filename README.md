@@ -2,14 +2,14 @@
 
 ## 程序员代码面试指南 IT名企算法与数据结构题目最优解 
 
-> 当前进度：1001
+> 当前进度：1002
 
 # 栈和队列
 
 |  ID  | Title                                           |                             JAVA                             | 备注     |
 | :--: | :---------------------------------------------- | :----------------------------------------------------------: | :------- |
 | 1001 | 设计一个有getMin功能的栈 (☆)                    | [查看题解](  https://github.com/geekerstar/coding-interview/blob/master/src/main/java/com/geekerstar/s01/GetMinStack.java) | 栈       |
-| 1002 | 由两个栈组成的队列 (☆☆)                         | [查看题解](  Chapter01_Stack%26Queue/Q1002  ) | 栈、队列 |
+| 1002 | 由两个栈组成的队列 (☆☆)                         | [查看题解](  https://github.com/geekerstar/coding-interview/blob/master/src/main/java/com/geekerstar/s1002/TwoStacksImplementQueue.java  ) | 栈、队列 |
 | 1003 | 用递归函数和栈操作逆序一个栈 (☆☆)               | [查看题解](  Chapter01_Stack%26Queue/Q1003  ) | 栈、递归 |
 | 1004 | 用一个栈实现另一个栈的排序 (☆)                  | [查看题解](  Chapter01_Stack%26Queue/Q1004  ) | 栈       |
 | 1005 | 用栈来求解汉诺塔问题 (☆☆☆)                      | [查看题解](  Chapter01_Stack%26Queue/Q1005  ) | 栈、递归 |

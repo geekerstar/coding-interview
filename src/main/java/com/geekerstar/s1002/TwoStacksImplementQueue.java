@@ -7,7 +7,9 @@ import java.util.Stack;
  * date: 2019/2/27 19:14
  * description:
  *
- * 题目：编写一个类，用两个栈实现队列，支持队列的基本操作(add,poll,peek)。
+ * 题目：由两个栈组成的队列
+ *
+ * 编写一个类，用两个栈实现队列，支持队列的基本操作(add,poll,peek)。
  *
  */
 public class TwoStacksImplementQueue {
